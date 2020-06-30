@@ -2,6 +2,6 @@
 Welcome to ABC Git
 
 Migration Deatils:
-Translate and import data, history and author etails to Git lab
-post mgration no sync between SVN na d Git
+Translate and import data, history and author etails to Git lab.
+post mgration no sync between SVN na d Git.
 All developers will use Gitlab post migration.
